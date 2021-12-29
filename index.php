@@ -26,7 +26,7 @@
                 </p>
                 <img src="metaverse.jpg" style="width: 100%; margin-bottom: 0.75rem;">
                 <div class="d-flex justify-content-between align-items-center">
-                  <a href="metaverse.html" class="btn btn-sm btn-outline-secondary">Lihat selengkapnya</a>
+                  <a href="metaverse.php" class="btn btn-sm btn-outline-secondary">Lihat selengkapnya</a>
                 </div>
               </div>
             </div>
@@ -40,7 +40,7 @@
                 </p>
                 <img src="metaverse.jpg" style="width: 100%; margin-bottom: 0.75rem;">
                 <div class="d-flex justify-content-between align-items-center">
-                  <a href="nft.html" class="btn btn-sm btn-outline-secondary">Lihat selengkapnya</a>
+                  <a href="nft.php" class="btn btn-sm btn-outline-secondary">Lihat selengkapnya</a>
                 </div>
               </div>
             </div>
@@ -54,7 +54,7 @@
                 </p>
                 <img src="metaverse.jpg" style="width: 100%; margin-bottom: 0.75rem;">
                 <div class="d-flex justify-content-between align-items-center">
-                  <a href="blockchain.html" class="btn btn-sm btn-outline-secondary">Lihat selengkapnya</a>
+                  <a href="blockchain.php" class="btn btn-sm btn-outline-secondary">Lihat selengkapnya</a>
                 </div>
               </div>
             </div>
